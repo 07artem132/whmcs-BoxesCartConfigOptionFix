@@ -12,7 +12,7 @@ use WHMCS\Product\Product;
 function BoxesCartConfigOptionFix_config() {
 	return [
 		"name"        => "Boxes cart config option fix total",
-		"description" => "-",
+		"description" => "",
 		"version"     => "1",
 		"author"      => "service-voice",
 		"fields"      => [
